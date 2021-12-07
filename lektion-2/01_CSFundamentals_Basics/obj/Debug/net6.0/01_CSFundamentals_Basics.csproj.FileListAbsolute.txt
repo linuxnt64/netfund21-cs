@@ -1,0 +1,15 @@
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.exe
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.deps.json
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.runtimeconfig.json
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.dll
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\ref\01_CSFundamentals_Basics.dll
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\bin\Debug\net6.0\01_CSFundamentals_Basics.pdb
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.csproj.AssemblyReference.cache
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.AssemblyInfoInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.AssemblyInfo.cs
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.csproj.CoreCompileInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.dll
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\ref\01_CSFundamentals_Basics.dll
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.pdb
+D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\obj\Debug\net6.0\01_CSFundamentals_Basics.genruntimeconfig.cache
