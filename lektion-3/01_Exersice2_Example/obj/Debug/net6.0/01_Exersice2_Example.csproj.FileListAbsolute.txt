@@ -1,0 +1,15 @@
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\01_Exersice2_Example.exe
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\01_Exersice2_Example.deps.json
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\01_Exersice2_Example.runtimeconfig.json
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\01_Exersice2_Example.dll
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\ref\01_Exersice2_Example.dll
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\bin\Debug\net6.0\01_Exersice2_Example.pdb
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.csproj.AssemblyReference.cache
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.AssemblyInfoInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.AssemblyInfo.cs
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.csproj.CoreCompileInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.dll
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\ref\01_Exersice2_Example.dll
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.pdb
+D:\LEXICON\NETFUND21\cs\lektion-3\01_Exersice2_Example\obj\Debug\net6.0\01_Exersice2_Example.genruntimeconfig.cache
