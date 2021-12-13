@@ -1,0 +1,15 @@
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\02_GettersSetters.exe
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\02_GettersSetters.deps.json
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\02_GettersSetters.runtimeconfig.json
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\02_GettersSetters.dll
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\ref\02_GettersSetters.dll
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\bin\Debug\net6.0\02_GettersSetters.pdb
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.csproj.AssemblyReference.cache
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.AssemblyInfoInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.AssemblyInfo.cs
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.csproj.CoreCompileInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.dll
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\ref\02_GettersSetters.dll
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.pdb
+D:\LEXICON\NETFUND21\cs\lektion-4\02_GettersSetters\obj\Debug\net6.0\02_GettersSetters.genruntimeconfig.cache
