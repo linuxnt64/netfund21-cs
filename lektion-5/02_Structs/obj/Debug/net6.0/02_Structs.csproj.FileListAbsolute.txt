@@ -1,0 +1,15 @@
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.exe
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.deps.json
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.runtimeconfig.json
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\ref\02_Structs.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.pdb
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.csproj.AssemblyReference.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfoInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfo.cs
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.csproj.CoreCompileInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\ref\02_Structs.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.pdb
+D:\LEXICON\NETFUND21\cs\lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.genruntimeconfig.cache

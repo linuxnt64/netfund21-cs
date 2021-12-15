@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f15d428a-f345-467f-89f3-bee6fb145f0c": {
+      "ProjectGuid": "f15d428a-f345-467f-89f3-bee6fb145f0c",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "afff3517-63d8-4593-925c-506d13b26016": {
+      "ProjectGuid": "afff3517-63d8-4593-925c-506d13b26016",
+      "DisplayName": "01_AccessModifers",
+      "ColorIndex": 1
+    },
+    "91cd3944-c5b8-4028-af07-f08f821bc051": {
+      "ProjectGuid": "91cd3944-c5b8-4028-af07-f08f821bc051",
+      "DisplayName": "01_AccessModifiers.Repository",
+      "ColorIndex": 2
+    },
+    "e7604779-7dd5-47e1-8995-2c210427faf7": {
+      "ProjectGuid": "e7604779-7dd5-47e1-8995-2c210427faf7",
+      "DisplayName": "02_GettersSetters",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

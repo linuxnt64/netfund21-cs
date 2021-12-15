@@ -1,0 +1,15 @@
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.csproj.AssemblyReference.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.AssemblyInfoInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.AssemblyInfo.cs
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.csproj.CoreCompileInputs.cache
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\03_Interfaces.exe
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\03_Interfaces.deps.json
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\03_Interfaces.runtimeconfig.json
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\03_Interfaces.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\ref\03_Interfaces.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\bin\Debug\net6.0\03_Interfaces.pdb
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\ref\03_Interfaces.dll
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.pdb
+D:\LEXICON\NETFUND21\cs\lektion-5\03_Interfaces\obj\Debug\net6.0\03_Interfaces.genruntimeconfig.cache
