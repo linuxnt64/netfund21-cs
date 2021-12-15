@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "567a390a-26d9-4256-838d-19a92b4faf69": {
+      "ProjectGuid": "567a390a-26d9-4256-838d-19a92b4faf69",
+      "DisplayName": "01_Enums",
+      "ColorIndex": 0
+    },
+    "83039b14-9cc6-4b8c-a146-7771e35e3883": {
+      "ProjectGuid": "83039b14-9cc6-4b8c-a146-7771e35e3883",
+      "DisplayName": "02_Structs",
+      "ColorIndex": 1
+    },
+    "9a84154b-a514-409b-822e-dce55ba85013": {
+      "ProjectGuid": "9a84154b-a514-409b-822e-dce55ba85013",
+      "DisplayName": "03_Interfaces",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
