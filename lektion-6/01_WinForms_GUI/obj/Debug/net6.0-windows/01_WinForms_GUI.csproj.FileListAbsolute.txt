@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\01_WinForms_GUI.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\01_WinForms_GUI.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\01_WinForms_GUI.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\01_WinForms_GUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\ref\01_WinForms_GUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\bin\Debug\net6.0-windows\01_WinForms_GUI.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\_01_WinForms_GUI.Form1.resources
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.csproj.GenerateResource.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\ref\01_WinForms_GUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\01_WinForms_GUI\obj\Debug\net6.0-windows\01_WinForms_GUI.genruntimeconfig.cache

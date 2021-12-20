@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\03_Interfaces\\03_Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\03_Interfaces\\03_Interfaces.csproj",
       "projectName": "03_Interfaces",
-      "projectPath": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\03_Interfaces\\03_Interfaces.csproj",
+      "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\03_Interfaces\\03_Interfaces.csproj",
       "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-      "outputPath": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\03_Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\03_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

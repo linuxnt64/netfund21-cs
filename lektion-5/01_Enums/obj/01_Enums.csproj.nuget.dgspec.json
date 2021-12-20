@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\01_Enums\\01_Enums.csproj": {}
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\01_Enums\\01_Enums.csproj": {}
   },
   "projects": {
-    "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\01_Enums\\01_Enums.csproj": {
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\01_Enums\\01_Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\01_Enums\\01_Enums.csproj",
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\01_Enums\\01_Enums.csproj",
         "projectName": "01_Enums",
-        "projectPath": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\01_Enums\\01_Enums.csproj",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\01_Enums\\01_Enums.csproj",
         "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-        "outputPath": "D:\\LEXICON\\NETFUND21\\cs\\lektion-5\\01_Enums\\obj\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-5\\01_Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

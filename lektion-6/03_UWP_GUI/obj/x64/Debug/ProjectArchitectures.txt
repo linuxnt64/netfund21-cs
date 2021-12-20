@@ -1,0 +1,1 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\03_UWP_GUI\03_UWP_GUI.csproj;x64

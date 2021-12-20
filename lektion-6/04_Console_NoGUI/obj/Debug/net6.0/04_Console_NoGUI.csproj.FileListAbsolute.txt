@@ -1,0 +1,14 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\04_Console_NoGUI.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\04_Console_NoGUI.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\04_Console_NoGUI.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\04_Console_NoGUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\ref\04_Console_NoGUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\bin\Debug\net6.0\04_Console_NoGUI.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\ref\04_Console_NoGUI.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-6\04_Console_NoGUI\obj\Debug\net6.0\04_Console_NoGUI.genruntimeconfig.cache

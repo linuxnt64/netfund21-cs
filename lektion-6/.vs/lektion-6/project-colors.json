@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25590804-ff2a-40d6-919d-c0855d6e5454": {
+      "ProjectGuid": "25590804-ff2a-40d6-919d-c0855d6e5454",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "0e962922-1f0c-4a35-931e-7c977049bc4f": {
+      "ProjectGuid": "0e962922-1f0c-4a35-931e-7c977049bc4f",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 1
+    },
+    "b6939371-fa20-4b14-ad44-007ba4f501ae": {
+      "ProjectGuid": "b6939371-fa20-4b14-ad44-007ba4f501ae",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "4e011a3d-c3eb-4de1-b232-8650a446a110": {
+      "ProjectGuid": "4e011a3d-c3eb-4de1-b232-8650a446a110",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 3
+    },
+    "c20e0082-cd00-4f0b-a888-39a4304b31bb": {
+      "ProjectGuid": "c20e0082-cd00-4f0b-a888-39a4304b31bb",
+      "DisplayName": "01_WinForms_GUI",
+      "ColorIndex": 4
+    },
+    "c9483605-684a-4b78-963d-d5a149bc6666": {
+      "ProjectGuid": "c9483605-684a-4b78-963d-d5a149bc6666",
+      "DisplayName": "02_WPF_GUI",
+      "ColorIndex": 5
+    },
+    "1be071ed-f3fc-4feb-8e64-b6c709fd8706": {
+      "ProjectGuid": "1be071ed-f3fc-4feb-8e64-b6c709fd8706",
+      "DisplayName": "03_UWP_GUI",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
