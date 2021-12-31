@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "155c3617-16f8-44f7-89bc-dd8405b8fb31": {
+      "ProjectGuid": "155c3617-16f8-44f7-89bc-dd8405b8fb31",
+      "DisplayName": "01_SaveToFile",
+      "ColorIndex": 0
+    },
+    "d2ab771e-f323-4706-95b8-c82dd0af2c85": {
+      "ProjectGuid": "d2ab771e-f323-4706-95b8-c82dd0af2c85",
+      "DisplayName": "01_FileStorage",
+      "ColorIndex": 1
+    },
+    "aa15befc-ec6e-459a-bbaa-ee86658c3a72": {
+      "ProjectGuid": "aa15befc-ec6e-459a-bbaa-ee86658c3a72",
+      "DisplayName": "02_LocalSqlStorage",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

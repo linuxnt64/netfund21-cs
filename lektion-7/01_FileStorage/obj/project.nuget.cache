@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/eKCnr9UVQCeZveVHWgXegKVxvGcAe/y2Pr4VlHDeqVGXL3n8+L1fjfo3Rf6NEazBePH4RPzcJJZhn3RASPcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\NETFUND21\\netfund21-cs\\lektion-7\\01_FileStorage\\01_FileStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -35,7 +35,12 @@
       "ProjectGuid": "1be071ed-f3fc-4feb-8e64-b6c709fd8706",
       "DisplayName": "03_UWP_GUI",
       "ColorIndex": 6
+    },
+    "eecda034-b558-4bcc-9b2a-8b8afb7738a4": {
+      "ProjectGuid": "eecda034-b558-4bcc-9b2a-8b8afb7738a4",
+      "DisplayName": "04_Console_NoGUI",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
