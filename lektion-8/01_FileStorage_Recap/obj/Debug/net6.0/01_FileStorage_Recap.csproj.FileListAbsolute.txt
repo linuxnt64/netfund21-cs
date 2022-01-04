@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\01_FileStorage_Recap.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\01_FileStorage_Recap.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\01_FileStorage_Recap.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\01_FileStorage_Recap.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\ref\01_FileStorage_Recap.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\01_FileStorage_Recap.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\ref\01_FileStorage_Recap.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-8\01_FileStorage_Recap\obj\Debug\net6.0\01_FileStorage_Recap.genruntimeconfig.cache
