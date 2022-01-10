@@ -1,0 +1,14 @@
+﻿Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-9\EntityFrameworkCore_DatabaseFirst\Data\efc_databasefirst.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -ContextDir Data -OutputDir Models -Force
+
+
+Mer info hittar du på:
+https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding?tabs=vs
+
+Scaffold-DbContext
+""
+Microsoft.EntityFrameworkCore.SqlServer
+-Context SqlContext
+-ContextDir Data
+-OutputDir Models
+-DataAnnotations
+-Force
