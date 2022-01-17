@@ -1,0 +1,21 @@
+﻿1. Installera paketen:
+	Microsoft.EntityFrameworkCore.SqlServer
+	Microsoft.EntityFrameworkCore.Tools
+
+2. Gör ordning din modell/modeller och sätt dit DataAnnotations [Key],[Requried],[StringLength()],[Column(TypeName="")]
+
+3. Gör ordning din SqlContext
+ - Den ska ärva från DbContext
+ - Den ska ha en tom constructor och en med options lägg även till <SqlContext>
+ - Lägg till dina modeller public virtual DbSet<Modellen> Modellensnamn {get;set;}
+ - Gör en override på OnConfiguration och ange 
+	if(!optionsbuilder.IsConfigured)
+		optionsbuilder.UseSqlServer(@"din connectionstring till din databas");
+
+4. Kör följande kommando i Package Manager Console: Add-Migration "ange en text"
+
+5. Kör följande kommando i Package Manager Console: Update-Database
+
+
+KLART!
+

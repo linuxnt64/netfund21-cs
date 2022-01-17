@@ -1,0 +1,14 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\bin\Debug\net6.0\00_EntityFramework_ClassLibrary.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\bin\Debug\net6.0\00_EntityFramework_ClassLibrary.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\bin\Debug\net6.0\00_EntityFramework_ClassLibrary.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\bin\Debug\net6.0\ref\00_EntityFramework_ClassLibrary.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\bin\Debug\net6.0\00_EntityFramework_ClassLibrary.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\ref\00_EntityFramework_ClassLibrary.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\NETFUND21\netfund21-cs\lektion-10\00_EntityFramework_ClassLibrary\obj\Debug\net6.0\00_EntityFramework_ClassLibrary.genruntimeconfig.cache

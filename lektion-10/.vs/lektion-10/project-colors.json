@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "662b5f5a-2ef1-49c7-97ca-e4cfac81865e": {
+      "ProjectGuid": "662b5f5a-2ef1-49c7-97ca-e4cfac81865e",
+      "DisplayName": "01_EntityFramework_WPF",
+      "ColorIndex": 0
+    },
+    "bef9dba9-55d5-4713-a624-249b87f8e305": {
+      "ProjectGuid": "bef9dba9-55d5-4713-a624-249b87f8e305",
+      "DisplayName": "00_EntityFramework_ClassLibrary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "31752604-d843-414f-b274-3dc66b0ccf5e": {
+      "ProjectGuid": "31752604-d843-414f-b274-3dc66b0ccf5e",
+      "DisplayName": "01_EntityFramework_Console",
+      "ColorIndex": 2
+    },
+    "2aaf22f6-9027-46c9-9626-5ff39941af94": {
+      "ProjectGuid": "2aaf22f6-9027-46c9-9626-5ff39941af94",
+      "DisplayName": "02_AspNetMVC_PreDemo",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
